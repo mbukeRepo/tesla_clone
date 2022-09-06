@@ -5,3 +5,10 @@
 .scrollbar-hidden::-webkit-scrollbar {
   display: none;
 }
+.add-margin {
+  margin-top: 180px;
+  margin-bottom: 80px;
+}
+.max-w-mobile {
+  max-width: 380px;
+}
